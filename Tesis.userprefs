@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Tesis\Flocking.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tesis\Window.cs">
+    <Files>
+      <File FileName="Tesis\DialogoPropiedades.cs" Line="1" Column="1" />
+      <File FileName="Tesis\BoidAutonomo.cs" Line="1" Column="1" />
+      <File FileName="Tesis\Window.cs" Line="1" Column="1" />
+      <File FileName="Tesis\Constantes.cs" Line="1" Column="1" />
+      <File FileName="Tesis\Program.cs" Line="1" Column="1" />
+      <File FileName="Tesis\Boid.cs" Line="1" Column="1" />
+      <File FileName="Tesis\BarChart.cs" Line="1" Column="1" />
+      <File FileName="Tesis\DialogoMetricas.cs" Line="1" Column="1" />
+      <File FileName="Tesis\DialogoGrafico.cs" Line="1" Column="1" />
+      <File FileName="Tesis\OgreEntity.cs" Line="1" Column="1" />
+      <File FileName="Tesis\ogreSceneWrap.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
