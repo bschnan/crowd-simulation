@@ -1,0 +1,12 @@
+C:\Users\Barbara-PC\Documents\Nuevo\Nuevo\bin\Debug\Nuevo.exe
+C:\Users\Barbara-PC\Documents\Nuevo\Nuevo\bin\Debug\Nuevo.pdb
+C:\Users\Barbara-PC\Documents\Nuevo\Nuevo\obj\x86\Debug\Nuevo.csprojResolveAssemblyReference.cache
+C:\Users\Barbara-PC\Documents\Nuevo\Nuevo\obj\x86\Debug\Nuevo.exe
+C:\Users\Barbara-PC\Documents\Nuevo\Nuevo\obj\x86\Debug\Nuevo.pdb
+E:\Facultad\Xamarin projects\Nuevo\Nuevo\bin\Debug\Nuevo.exe
+E:\Facultad\Xamarin projects\Nuevo\Nuevo\bin\Debug\Nuevo.pdb
+E:\Facultad\Xamarin projects\Nuevo\Nuevo\obj\x86\Debug\Nuevo.csprojResolveAssemblyReference.cache
+E:\Facultad\Xamarin projects\Nuevo\Nuevo\obj\x86\Debug\Nuevo.exe
+E:\Facultad\Xamarin projects\Nuevo\Nuevo\obj\x86\Debug\Nuevo.pdb
+E:\Facultad\Xamarin projects\Nuevo\Nuevo\bin\Debug\Nuevo.exe.config
+E:\Facultad\Xamarin projects\Nuevo\Nuevo\obj\x86\Debug\Nuevo.csproj.Nuevo.exe.config

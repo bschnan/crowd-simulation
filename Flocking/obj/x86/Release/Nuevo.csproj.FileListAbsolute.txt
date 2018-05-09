@@ -1,0 +1,5 @@
+E:\Facultad\Xamarin projects\Nuevo\Nuevo\obj\x86\Release\Nuevo.csprojResolveAssemblyReference.cache
+E:\Facultad\Xamarin projects\Nuevo\Nuevo\bin\Release\Nuevo.exe
+E:\Facultad\Xamarin projects\Nuevo\Nuevo\bin\Release\Nuevo.pdb
+E:\Facultad\Xamarin projects\Nuevo\Nuevo\obj\x86\Release\Nuevo.exe
+E:\Facultad\Xamarin projects\Nuevo\Nuevo\obj\x86\Release\Nuevo.pdb

@@ -1,0 +1,36 @@
+E:\Facultad\Xamarin projects\Nuevo\Nuevo\bin\Debug\Nuevo.exe.config
+E:\Facultad\Xamarin projects\Nuevo\Nuevo\bin\Debug\Nuevo.exe
+E:\Facultad\Xamarin projects\Nuevo\Nuevo\obj\x86\Debug\Flocking.csproj.Nuevo.exe.config
+E:\Facultad\Xamarin projects\Nuevo\Nuevo\obj\x86\Debug\Nuevo.pdb
+E:\Facultad\Xamarin projects\Nuevo\Nuevo\obj\x86\Debug\Flocking.csprojResolveAssemblyReference.cache
+E:\Facultad\Xamarin projects\Nuevo\Nuevo\bin\Debug\Nuevo.pdb
+E:\Facultad\Xamarin projects\Nuevo\Nuevo\obj\x86\Debug\Nuevo.exe
+E:\Facultad\Xamarin projects\Nuevo\Nuevo\bin\Debug\rsvg2-sharp.dll
+E:\Facultad\Xamarin projects\Tesis\Tesis\bin\Debug\Nuevo.exe
+E:\Facultad\Xamarin projects\Tesis\Tesis\bin\Debug\Nuevo.pdb
+E:\Facultad\Xamarin projects\Tesis\Tesis\obj\x86\Debug\Flocking.csprojResolveAssemblyReference.cache
+E:\Facultad\Xamarin projects\Tesis\Tesis\obj\x86\Debug\Nuevo.exe
+E:\Facultad\Xamarin projects\Tesis\Tesis\obj\x86\Debug\Nuevo.pdb
+D:\Barbara\Xamarin projects\Tesis\Tesis\bin\Debug\Nuevo.exe
+D:\Barbara\Xamarin projects\Tesis\Tesis\bin\Debug\Nuevo.pdb
+D:\Barbara\Xamarin projects\Tesis\Tesis\obj\x86\Debug\Flocking.csprojResolveAssemblyReference.cache
+D:\Barbara\Xamarin projects\Tesis\Tesis\obj\x86\Debug\Nuevo.exe
+D:\Barbara\Xamarin projects\Tesis\Tesis\obj\x86\Debug\Nuevo.pdb
+D:\Barbara\Xamarin projects\Tesis\Tesis\bin\Debug\Nuevo.exe.config
+C:\OgreSDK\bin\Debug\Nuevo.exe.config
+C:\OgreSDK\bin\Debug\Nuevo.exe
+C:\OgreSDK\bin\Debug\Nuevo.pdb
+D:\Barbara\Xamarin projects\Tesis\Tesis\obj\x86\Debug\Nuevo.Properties.Resources.resources
+D:\Barbara\Xamarin projects\Tesis\Tesis\obj\x86\Debug\Flocking.csproj.GenerateResource.Cache
+E:\Otros\Facultad\TESIS\Xamarin projects\Tesis\Tesis\obj\x86\Debug\Flocking.csprojResolveAssemblyReference.cache
+E:\Otros\Facultad\TESIS\Xamarin projects\Tesis\Tesis\obj\x86\Debug\Nuevo.Properties.Resources.resources
+E:\Otros\Facultad\TESIS\Xamarin projects\Tesis\Tesis\obj\x86\Debug\Flocking.csproj.GenerateResource.Cache
+E:\Otros\Facultad\TESIS\Xamarin projects\Tesis\Tesis\obj\x86\Debug\Nuevo.exe
+E:\Otros\Facultad\TESIS\Xamarin projects\Tesis\Tesis\obj\x86\Debug\Nuevo.pdb
+E:\Otros\Facultad\TESIS\Xamarin projects\Tesis\Tesis\obj\x86\Debug\Flocking.csproj.Nuevo.exe.config
+E:\Otros\Facultad\TESIS\Xamarin projects\Tesis\Flocking\obj\x86\Debug\Flocking.csprojResolveAssemblyReference.cache
+E:\Otros\Facultad\TESIS\Xamarin projects\Tesis\Flocking\obj\x86\Debug\Flocking.csproj.Nuevo.exe.config
+E:\Otros\Facultad\TESIS\Xamarin projects\Tesis\Flocking\obj\x86\Debug\Nuevo.Properties.Resources.resources
+E:\Otros\Facultad\TESIS\Xamarin projects\Tesis\Flocking\obj\x86\Debug\Flocking.csproj.GenerateResource.Cache
+E:\Otros\Facultad\TESIS\Xamarin projects\Tesis\Flocking\obj\x86\Debug\Nuevo.exe
+E:\Otros\Facultad\TESIS\Xamarin projects\Tesis\Flocking\obj\x86\Debug\Nuevo.pdb

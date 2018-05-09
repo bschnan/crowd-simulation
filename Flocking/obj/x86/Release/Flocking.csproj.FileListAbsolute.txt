@@ -1,0 +1,33 @@
+E:\Facultad\Xamarin projects\Nuevo\Nuevo\bin\Release\Nuevo.exe.config
+E:\Facultad\Xamarin projects\Nuevo\Nuevo\bin\Release\Nuevo.exe
+E:\Facultad\Xamarin projects\Nuevo\Nuevo\obj\x86\Release\Flocking.csprojResolveAssemblyReference.cache
+E:\Facultad\Xamarin projects\Nuevo\Nuevo\obj\x86\Release\Flocking.csproj.Nuevo.exe.config
+E:\Facultad\Xamarin projects\Nuevo\Nuevo\obj\x86\Release\Nuevo.exe
+E:\Facultad\Xamarin projects\Tesis\Tesis\bin\Release\Nuevo.exe
+E:\Facultad\Xamarin projects\Tesis\Tesis\obj\x86\Release\Flocking.csprojResolveAssemblyReference.cache
+E:\Facultad\Xamarin projects\Tesis\Tesis\obj\x86\Release\Nuevo.exe
+E:\Facultad\Xamarin projects\Tesis\Tesis\bin\Release\Nuevo.exe.config
+E:\Facultad\Xamarin projects\Tesis\Tesis\obj\x86\Release\Flocking.csproj.Nuevo.exe.config
+D:\Barbara\Xamarin projects\Tesis\Tesis\bin\Release\Nuevo.exe.config
+D:\Barbara\Xamarin projects\Tesis\Tesis\bin\Release\Nuevo.exe
+D:\Barbara\Xamarin projects\Tesis\Tesis\obj\x86\Release\Flocking.csprojResolveAssemblyReference.cache
+D:\Barbara\Xamarin projects\Tesis\Tesis\obj\x86\Release\Nuevo.exe
+E:\Tesis Dell Pladema\Xamarin projects\Tesis\Tesis\bin\Release\Nuevo.exe.config
+E:\Tesis Dell Pladema\Xamarin projects\Tesis\Tesis\bin\Release\Nuevo.exe
+E:\Tesis Dell Pladema\Xamarin projects\Tesis\Tesis\obj\x86\Release\Flocking.csprojResolveAssemblyReference.cache
+E:\Tesis Dell Pladema\Xamarin projects\Tesis\Tesis\obj\x86\Release\Flocking.csproj.Nuevo.exe.config
+E:\Tesis Dell Pladema\Xamarin projects\Tesis\Tesis\obj\x86\Release\Nuevo.exe
+E:\Tesis Dell Pladema\Barbara\Xamarin projects\Tesis\Tesis\bin\Release\Nuevo.exe.config
+E:\Tesis Dell Pladema\Barbara\Xamarin projects\Tesis\Tesis\bin\Release\Nuevo.exe
+E:\Tesis Dell Pladema\Barbara\Xamarin projects\Tesis\Tesis\obj\x86\Release\Flocking.csprojResolveAssemblyReference.cache
+E:\Tesis Dell Pladema\Barbara\Xamarin projects\Tesis\Tesis\obj\x86\Release\Flocking.csproj.Nuevo.exe.config
+E:\Tesis Dell Pladema\Barbara\Xamarin projects\Tesis\Tesis\obj\x86\Release\Nuevo.exe
+D:\Barbara\Xamarin projects\Tesis\Tesis\obj\x86\Release\Nuevo.Properties.Resources.resources
+D:\Barbara\Xamarin projects\Tesis\Tesis\obj\x86\Release\Flocking.csproj.GenerateResource.Cache
+C:\OgreSDK\bin\Release\Nuevo.exe.config
+C:\OgreSDK\bin\Release\Nuevo.exe
+E:\Otros\Facultad\TESIS\Xamarin projects\Tesis\Tesis\obj\x86\Release\Nuevo.exe
+E:\Otros\Facultad\TESIS\Xamarin projects\Tesis\Tesis\obj\x86\Release\Flocking.csprojResolveAssemblyReference.cache
+E:\Otros\Facultad\TESIS\Xamarin projects\Tesis\Tesis\obj\x86\Release\Flocking.csproj.Nuevo.exe.config
+E:\Otros\Facultad\TESIS\Xamarin projects\Tesis\Tesis\obj\x86\Release\Nuevo.Properties.Resources.resources
+E:\Otros\Facultad\TESIS\Xamarin projects\Tesis\Tesis\obj\x86\Release\Flocking.csproj.GenerateResource.Cache
